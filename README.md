@@ -28,3 +28,7 @@ GO Database Version：2014-12-22
 輸入一篇文章，即可搜尋出文章內含有的GO Term。  
 （但目前只能搜尋出單詞而已，多字組成GO Term的搜尋還未實作。）  
 分析後的文章會在GO Term上加上超連結，可以直接點擊得到更詳細的資訊。
+
+## 版權
+Bootstrap - Code licensed under [MIT](https://github.com/twbs/bootstrap/blob/master/LICENSE), documentation under CC BY 3.0.  
+GO Database - Copyright © 1999-2014 the  [Gene Ontology](http://geneontology.org/page/use-and-license)(CC-BY 4.0).
