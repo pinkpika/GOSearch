@@ -1,0 +1,15 @@
+GO:0000007
+
+vacuole
+
+mitochondria
+
+The mechanisms ensuring accurate partitioning of yeast vacuoles and mitochondria are distinct, yet they share common elements. Both organelles move along actin filaments, and both organelles require fusion and fission to maintain normal morphology. Recent studies have revealed that while vacuolar inheritance requires a processive myosin motor, mitochondrial inheritance requires controlled actin polymerization. Distinct sets of proteins required for the fusion and fission of each organelle have also been identified.
+
+During the past decade significant advances were made toward understanding the mechanism of mitochondrial inheritance in the yeast Saccharomyces cerevisiae. A combination of genetics, cell-free assays and microscopy has led to the discovery of a great number of components. These fall into three major categories: cytoskeletal elements, mitochondrial membrane components and regulatory proteins. These proteins mediate activities, including movement of mitochondria from mother cells to buds, segregation of mitochondria and mitochondrial DNA, and equal distribution of the organelle between mother cells and buds during yeast cell division.
+
+Mitochondria are essential organelles that perform fundamental cellular functions including aerobic energy mobilization, fatty acid oxidation, amino acid metabolism, heme biosynthesis and apoptosis. Mitochondria cannot be synthesized de novo. Therefore, the inheritance of this organelle is an essential part of the cell cycle; that is, daughter cells that do not inherit mitochondria will not survive. The budding yeast, Saccharomyces cerevisiae, is a facultative aerobe that can tolerate mitochondrial mutations that would be lethal in other organisms. Therefore, yeast has been used extensively to study inheritance and segregation of mitochondria. As a result, much of what we know regarding mitochondrial inheritance has been uncovered using yeast as a model system. Here, we describe the latest developments in mitochondrial motility and inheritance.
+
+Actin cables are required for movement of mitochondria, secretory vesicles, mRNA, and spindle alignment elements in yeast. We provide the first direct evidence that one of the proposed cargos use actin cables as tracks. In the case of mitochondrial inheritance, anterograde movement drives transfer of the organelle from mothers to buds, while retrograde movement contributes to retention of the organelle in mother cells. Interaction of mitochondria with actin cables is required for anterograde and retrograde movement.
+
+Phagocytosis is the process of taking in relatively large particles by a cell, and is a central mechanism in the tissue remodeling, inflammation, and defense against infectious agents. A phagosome is formed when the specific receptors on the phagocyte surface recognize ligands on the particle surface. After formation, nascent phagosomes progressively acquire digestive characteristics. This maturation of phagosomes involves regulated interaction with the other membrane organelles, including recycling endosomes, late endosomes and lysosomes.
