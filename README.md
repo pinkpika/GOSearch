@@ -4,8 +4,8 @@
 + 功能：提供一個方便的系統搜尋GO（Gene Ontology）的詞彙。
 + 開發語言：HTML5、CSS3、JavaScript、PHP5.5.0。
 + 開發者工作：  
-TaiwanWei-> PHP、Database（Gene Ontology）  
-Pinkpika-> HTML、Bootstrap（一種網頁框架）
+Taiwan Wei-> PHP、Database（Gene Ontology）  
+Pink Pika-> HTML、Bootstrap（一種網頁框架）
 + 系統版本：
 Version：1.1   
 Last Updated：2015-1-3  
